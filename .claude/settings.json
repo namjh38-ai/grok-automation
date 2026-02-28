@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init)",
+      "Bash(git config user.email \"namjh38@gmail.com\")",
+      "Bash(git config user.name \"namjh38-ai\")",
+      "Bash(git remote add origin https://github.com/namjh38-ai/grok-automation.git)",
+      "Bash(git add .)",
+      "Bash(git commit -m \"Initial commit\")"
+    ]
+  }
+}
