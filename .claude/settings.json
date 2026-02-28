@@ -6,7 +6,11 @@
       "Bash(git config user.name \"namjh38-ai\")",
       "Bash(git remote add origin https://github.com/namjh38-ai/grok-automation.git)",
       "Bash(git add .)",
-      "Bash(git commit -m \"Initial commit\")"
+      "Bash(git commit -m \"Initial commit\")",
+      "Bash(git push -u origin main)",
+      "Bash(git add .claude/settings.json)",
+      "Bash(git commit -m \"Update settings.json\")",
+      "Bash(git push)"
     ]
   }
 }
